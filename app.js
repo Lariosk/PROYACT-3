@@ -1,1 +1,1 @@
-hola mundo
+printf("Hola mundo");
